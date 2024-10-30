@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Third commit on main
+=======
+Initial commit
+Second commit on main
+>>>>>>> feature-branch1
