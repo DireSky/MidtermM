@@ -35,6 +35,8 @@ Task 8️⃣: Rename branches "two" and "three" to "backup-two" and "backup-thre
 
 Task 9️⃣: Document the execution of each task in a README file and attach all screenshots and files.
 
+я добавил 3 комита в студентб удалил веткиб сделал слияние вернул удаленные ветки и коммитыб весь свой процесс я скриншотил и закреплял все 
+
 Task 🔟: Create a pull request to merge the “feature” branch with the “main” branch and add a description of the changes. Take a screenshot of the created pull request.
 
 
