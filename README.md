@@ -20,6 +20,7 @@ Tasks:
 Task 1️⃣: Create new branch Student_name and add 3 commits.
 1commit
 2commit
+3commit
 
 Task 2️⃣: Recreate the graph as in the picture. Leave a link to the repository in the text file "task 2".
 
