@@ -45,4 +45,4 @@ task 5 done
 
 
 
-Beknazar, SCA 23C
+Beknazar, SCA 23C.
