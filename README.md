@@ -17,15 +17,15 @@ Make a fork of this repository on your GitHab. Read the tasks carefully and comp
 ❌ I will not accept links unless you post information about who you are.
 
 Tasks:
-Task 1️⃣: Create new branch Student_name and add 3 commits.                                                                   DONE
+Task 1️⃣: Create new branch Student_name and add 3 commits.                                                          DONE
 
 Task 2️⃣: Recreate the graph as in the picture. Leave a link to the repository in the text file "task 2".
 
-Task 3️⃣: Merge branch two to branch three and rebase three to one. Show the process in screenshots                           DONE
+Task 3️⃣: Merge branch two to branch three and rebase three to one. Show the process in screenshots                  DONE
 
-Task 4️⃣: Answer the questions in commit questions                                                                            DONE
+Task 4️⃣: Answer the questions in commit questions                                                                     DONE
 
-Task 5️⃣: Create a new branch called “dev-feature” from the branch "main" and add at least one commit.                        DONE
+Task 5️⃣: Create a new branch called “dev-feature” from the branch "main" and add at least one commit.                DONE
 
 Task 6️⃣: Delete branches “two” and “three” after merging them with the main branch. Make a screenshot of the result.
 
@@ -38,3 +38,11 @@ Task 9️⃣: Document the execution of each task in a README file and attach al
 Task 🔟: Create a pull request to merge the “feature” branch with the “main” branch and add a description of the changes. Take a screenshot of the created pull request.
 
 
+task 1 in commits
+task 3 here, screenshots
+task 4 on dev_fishas branch
+task 5 done
+
+
+
+Beknazar, SCA 23C
