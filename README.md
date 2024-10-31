@@ -50,8 +50,6 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 
 Task 7️⃣: Resolve merge conflicts that will occur when merging “feature” back into “one”, and add a screenshot of the conflict resolution.
 
-Task 8️⃣: Rename branches "two" and "three" to "backup-two" and "backup-three," respectively, and take a screenshot showing the renamed branches.
-
 Task 9️⃣: Document the execution of each task in a README file and attach all screenshots and files.
 
 Task 🔟: Create a pull request to merge the “feature” branch with the “main” branch and add a description of the changes. Take a screenshot of the created pull request.
