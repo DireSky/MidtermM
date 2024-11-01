@@ -1,0 +1,6 @@
+1 - я добавил student_name из main в Readme
+2 -сделал merge 2 и 3, позже я написал rebase, в скриншотах есть
+3 - я ответил на вопросы из quetions
+4 - git checkout -b dev-feature из main потом закомиттилл одно изменение
+5 - сделал merge “feature” в “one”
+6 - написал git branch -d -- remoute потом имя ветки (two, three)
