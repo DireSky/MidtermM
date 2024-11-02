@@ -32,6 +32,10 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
+
+
+TASK 7️⃣:
+Выполнил все задания. Где нужно сделал скриншоты. Создал ветку Student_Bolotov и добваил в нее 3 комита. Я замерджил ветку 2 в ветку 3. И сделал rebase в ветку 1. также добавил скриншот. создал новый текстовый файл и ответил на вопросы. создал ветку dev-feature и добавил коммиты. далее замерджил dev-feature в ветку 1. также добавил скриншоты. замерджил ветки 2 и 3 в main сделал скриншоты. 
  
 
 
