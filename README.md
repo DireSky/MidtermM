@@ -48,6 +48,8 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
+Создал ветку Student_name. Сделал merge two to three и сделал скриншот. Ответил на вопросы и добавил коммит. Создал ветку dev_feature и добавил 1 коммит. Обьединил ветку dev_feature for one и сделал скришот. Удалил two and three комит потом замерчил и сделал скришот. И описал что я сделал
+
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
  
 
