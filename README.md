@@ -35,7 +35,7 @@ Task 8️⃣: Make a pull request, write first name, last name and group in the 
  
 
 
-task3:
+
 task3:
 What is the difference between switch and checkout? сcheckout может перемещаться по веткам и коммитам, а switch только по веткам
 What does git merge do? это команда слияния веток
