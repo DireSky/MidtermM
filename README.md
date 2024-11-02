@@ -34,5 +34,8 @@ Task 7️⃣: Describe what tasks were completed, what screenshots correspond to
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
  
 
-
+1.Created Student_name branch and added three commits.
+2.Merged branch two into three and rebased three onto one.
+3.Answered commit questions.
+4. Created dev-feature branch and added a commit.
 
