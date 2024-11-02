@@ -36,3 +36,24 @@ Task 8️⃣: Make a pull request, write first name, last name and group in the 
 
 
 
+
+Task 3 Answer:
+    What is the difference between switch and checkout?
+        switch is for switching branches and checkout for switching branches AND commits
+    What does git merge do?
+        git merge merges choosen branch into current(on which are you)
+    What happens to the commit history after rebase and why?
+        history of choosen branch transforms in current branch's history
+    How to understand which branch is remote and which is local in the terminal?
+        command "git branch" shows local branchs and command "git branch -r" shows remote
+
+
+
+
+
+Task 7 Answer:
+    tasks 1, 2, 3, 4, 6 are completed and tasks 7 and 8 will be completed now
+    task 3 is in README.md main
+    task 2 screenshots are in directory "screenshots" (task2Merge.PNG, task2Rebase.PNG)
+    task 6 screenshots are in directory "screenshots" (task6Merge2.PNG, task6Merge3.PNG, task6Delete2and3.PNG)
+    
