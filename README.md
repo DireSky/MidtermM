@@ -41,6 +41,7 @@ How to understand which branch is remote and which is local in the terminal?
 
 Task 4️⃣: Create a new branch called “dev-feature” from the branch "main" and add at least one commit.
 
+
 Task 5️⃣: Resolve merge conflicts that will occur when merging “feature” back into “one”, and add a screenshot of the conflict resolution.
 
 Task 6️⃣: Delete branches “two” and “three” after merging them with the main branch. Make a screenshot of the result.
