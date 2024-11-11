@@ -1,0 +1,4 @@
+What is the difference between switch and checkout? сcheckout может перемещаться по веткам и коммитам, а switch только по веткам
+What does git merge do? это команда слияния веток
+What happens to the commit history after rebase and why?  когда вы делаете git rebase Git как бы "переписывает" историю ваших коммитов так, будто они изначально были сделаны на основе новой ветки
+How to understand which branch is remote and which is local in the terminal? с помощью git branch -a(показываает локальные и удаленные), -r (только удаленные)

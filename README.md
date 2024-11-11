@@ -36,3 +36,20 @@ Task 8️⃣: Make a pull request, write first name, last name and group in the 
 
 
 
+
+
+
+
+
+
+
+
+задание1 - я добавило student_name из main в Readme
+2 - я создал графиk, запушил, и оставило ссылку в task2.txt
+3 - сделал merge 2 и 3, позже я написал rebase, в скриншотах есть
+4 - commit questions
+5 - git checkout -b dev-feature из main потом закомиттилл одно изменение
+6 - написал git branch -d ил -D потом имя ветки (two, three)
+7 - в скринах есть, я разрешил конфликты выюрав 3 вариант и закоммитил merge
+8 - переходил в ветки которые нужно переименовать, позже git branch -m новое имя
+9 - сделал
