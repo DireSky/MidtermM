@@ -33,6 +33,8 @@ Task 7️⃣: Describe what tasks were completed, what screenshots correspond to
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
  
+1
 
+2
 
-
+3
