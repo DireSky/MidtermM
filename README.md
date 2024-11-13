@@ -31,6 +31,14 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
+В первом задании я создал branch Student_name (в моем случае Student_Alikhan) и добавил 3 коммита. 
+Во втором задании я замерджил branch two в branch three и сделал rebase в branch one.
+В третьем задании я ответил на вопросы.
+В четвортом задании я создал branch dev-feature из main b и добавил коммит.
+В пятом задании я замерджил feature в one  и решил конфликты.
+В шестом задании я сперва замерджил branch two и branch three в main и затем удалил их.
+ВСЕ ЗАДАНИЯ Я ЗАСКРИНШОТИЛ(ВСЕ СКРИНШОТЫ ПОД НАЗВАНИЯМИ TASKов).
+
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
  
 
