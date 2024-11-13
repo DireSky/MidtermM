@@ -1,0 +1,15 @@
+1. Difference between switch and checkout
+git checkout: This command is versatile; it can switch branches, restore files, and even create new branches. However, it can be confusing because it serves multiple purposes.
+git switch: Introduced to simplify branch switching, this command specifically focuses on changing branches. It doesn’t have the additional functionality of restoring files, making it more intuitive for branch management.
+2. What does git merge do?
+git merge combines the changes from one branch into another. When you merge a branch (e.g., feature) into your current branch (e.g., main), Git creates a new commit (unless it's a fast-forward merge) that reconciles the changes from both branches. This allows you to integrate contributions from different branches while maintaining the history of both.
+3. What happens to the commit history after rebase and why?
+After a git rebase, the commit history is rewritten. The commits from the branch being rebased are "replayed" on top of the base branch (e.g., main). This can result in:
+A linear history: The commits from the rebased branch appear as if they were made after the latest commits on the base branch, making the history cleaner and easier to follow.
+Potential loss of context: If you have shared the branch before rebasing, others may experience confusion due to the rewritten history, as their references to previous commits become invalid.
+4. How to understand which branch is remote and which is local in the terminal?
+You can use the following commands to differentiate between remote and local branches:
+List local branches.
+List remote branches.
+List all branches (local and remote).
+Remote branches typically appear with a prefix indicating the remote name (e.g., origin/main), while local branches are listed without any prefix.
