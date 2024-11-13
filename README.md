@@ -30,6 +30,15 @@ Task 5️⃣: Resolve merge conflicts that will occur when merging “feature”
 Task 6️⃣: Delete branches “two” and “three” after merging them with the main branch. Make a screenshot of the result.
 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
+ Task 1️⃣: Create new branch Student_name and add 3 commits. Completed
+ Task 2️⃣: Merge branch two to branch three and rebase three to one. Show the process in screenshots. Completed
+ Task 3️⃣: Answer the questions in commit questions. Completed
+ Task 4️⃣: Create a new branch called “dev-feature” from the branch "main" and add at least one commit. Completed
+ Task 5️⃣: Resolve merge conflicts that will occur when merging “feature” back into “one”, and add a screenshot of the conflict resolution. Completed
+ Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work. Completed 
+ Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work. Completed
+ Task 8️⃣: Make a pull request, write first name, last name and group in the request title. Completed
+ all task what I did
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
  
