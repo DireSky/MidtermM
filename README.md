@@ -32,6 +32,7 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
+я создал папку student name и добавил три коммита , потом сделал merge two to three and rabase three to one
  
 
 
