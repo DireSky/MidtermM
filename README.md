@@ -35,4 +35,4 @@ Task 8️⃣: Make a pull request, write first name, last name and group in the 
  
 
 
-
+Ориентироваться будете по git log --oneline --all по коммитам в комментариях которых будет "Task [number]: completed" Исключением является Task 5, скрин и решение которого имеется в решении Task 2: completed в файле task 2 будет скрин с конфликтом, его решением и слиянием
