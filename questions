@@ -1,0 +1,33 @@
+What is the difference between switch and checkout?
+What does git merge do?
+What happens to the commit history after rebase and why?
+How to understand which branch is remote and which is local in the terminal?
+
+1. What is the difference between git switch and git checkout?
+git checkout: This command was traditionally used for multiple purposes, including switching branches, checking out specific commits, and even restoring files. It’s versatile but can be confusing because it serves so many functions.
+git switch: Introduced to make branch switching clearer and safer, git switch is specifically for switching branches. Unlike checkout, it doesn’t modify files or check out commits.
+Summary: Use git switch for switching branches only. git checkout still works for that, but it’s also useful when you need more options, like restoring files or checking out specific commits.
+
+2. What does git merge do?
+git merge combines changes from one branch into the current branch. It merges commit histories, creating a new "merge commit" in the current branch that integrates the other branch’s changes.
+Example: If you’re on the main branch and want to merge changes from feature-branch, you would:
+
+bash
+Копировать код
+git checkout main
+git merge feature-branch
+This creates a merge commit in main that includes changes from feature-branch.
+
+3. What happens to the commit history after a rebase and why?
+Rebase rewrites commit history by applying the commits from one branch onto another in a sequential order. Instead of creating a merge commit, it "replays" each commit from the source branch on top of the target branch, creating a cleaner, linear commit history.
+Result: After a rebase, the commit history looks like all changes were made in a single, continuous sequence on one branch. This can make history easier to read but alters commit hashes, so it’s best to avoid rebasing branches that are shared with others.
+Why: Rebasing is used to keep a linear history, which is often cleaner and easier to follow, especially in large projects.
+
+4. How to understand which branch is remote and which is local in the terminal?
+In Git, local and remote branches are listed differently:
+
+Local branches can be seen with git branch. These branches are shown by name only, like main or feature.
+Remote branches can be seen with git branch -r. They have a prefix indicating the remote name, such as origin/main or origin/feature.
+All branches (local and remote): To see all branches together, you can use git branch -a, which shows both local branches and remote branches (with the origin/ prefix for remote branches).
+In summary: Local branches appear without any prefix, while remote branches include the remote name (like origin/), which distinguishes them as branches on the remote repository.
+
