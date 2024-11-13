@@ -36,3 +36,16 @@ Task 8️⃣: Make a pull request, write first name, last name and group in the 
 
 
 
+task3:
+What is the difference between switch and checkout? сcheckout может перемещаться по веткам и коммитам, а switch только по веткам
+What does git merge do? это команда слияния веток
+What happens to the commit history after rebase and why?  когда вы делаете git rebase Git как бы "переписывает" историю ваших коммитов так, будто они изначально были сделаны на основе новой ветки
+How to understand which branch is remote and which is local in the terminal? с помощью git branch -a(показываает локальные и удаленные), -r (только удаленные)
+
+task7:Во первых я создал новую ветку Student_Amantur  в ней сделал три коммита,
+во втором задании я перешел в ветку two  сделал слияние потом першел в ветку three и сделал rebase к ветке one,
+все скрины картинки я сохранил в ветке main и назвал их думаю будет понятно , 
+в третьем задании я нашел коммит с вопросами и ответил на них , 
+в четвертом задании создал ветку def-feature в ней создал 1 коммит, 
+в 5 задании у меня не возникло никаких конфликтов и просто замерджил,
+в шестом задании я замерджил two и three к ветке main и удалил их дальше прикрепил скрины , задание 7 я ответил осталось лишь восьмое.
