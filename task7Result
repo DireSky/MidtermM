@@ -1,0 +1,26 @@
+Tasks:
+Task 1️⃣: Create new branch Student_name and add 3 commits.
+
+Task 2️⃣: Merge branch two to branch three and rebase three to one. Show the process in screenshots
+
+Task 3️⃣: Answer the questions in commit questions
+
+Task 4️⃣: Create a new branch called “dev-feature” from the branch "main" and add at least one commit.
+
+Task 5️⃣: Resolve merge conflicts that will occur when merging “feature” back into “one”, and add a screenshot of the conflict resolution.
+
+Task 6️⃣: Delete branches “two” and “three” after merging them with the main branch. Make a screenshot of the result.
+
+Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
+
+Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
+
+Solution:
+1 задание создаю новую ветку Student_name с помощью команды git checkout -b и в этой ветке создаю 3 коммита
+2 задание перехожу в ветку three и делаю merge two. После мержа выходит конфликт.Открываю новый консоль git и делаю коммит.Перехожу в ветку one и делаю  rebase three.Без конфликтов.Делаю скриншот и отправляю в файл task2
+3 задание перехожу в ветку just branch гду есть файл с 5 вопросамии.создаю новый файд answers где нраписала овтеты
+4 задание перехожу в ветку main и создаю новую ветку dev-feature где создаю 1 коммит
+5 задание перехожув ветку one где делаю мерж dev-feature.выходитконфликт.создаю коммит мержа и скриншот.Скриншот хранится в файле таск5
+6 задание перехожу в ветку main где делаю мерж two and three. Делаю скриншот.Скрин хранится в снимок.png
+7 задание описываю каждый свой шаг
+8 задание гит пуш
