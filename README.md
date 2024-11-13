@@ -31,6 +31,16 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
+В ходе выполнения заданий были достигнуты следующие результаты:
+
+Создана ветка Student_name с тремя коммитами.
+Слияние веток two и three и их перебазирование на one.
+Ответы на вопросы в коммитах.
+Создана ветка dev-feature от main с одним коммитом.
+Разрешены конфликты при слиянии ветки feature с one.
+Удалены ветки two и three после слияния.
+Эти задания подтвердили навыки работы с Git и управление версиями.
+
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
  
 
