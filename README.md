@@ -18,20 +18,48 @@ Make a fork of this repository on your GitHab. Read the tasks carefully and comp
 
 Tasks:
 Task 1️⃣: Create new branch Student_name and add 3 commits.
-
+![alt text](1задание.PNG) 
 Task 2️⃣: Merge branch two to branch three and rebase three to one. Show the process in screenshots
-
+![alt text](2задание.PNG)
 Task 3️⃣: Answer the questions in commit questions
 
 Task 4️⃣: Create a new branch called “dev-feature” from the branch "main" and add at least one commit.
 
 Task 5️⃣: Resolve merge conflicts that will occur when merging “feature” back into “one”, and add a screenshot of the conflict resolution.
-
+![alt text](конфликт.PNG)
 Task 6️⃣: Delete branches “two” and “three” after merging them with the main branch. Make a screenshot of the result.
-
+![alt text](deletebranch.PNG)
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
+
+
+
+1. Create a new branch called Student_name and add 3 commits
+ First, I created a branch called Student_name from main.
+ I made three small changes on this branch and committed each change.
+ Screenshot 1: Shows the creation of Student_name and the three commits I made.
+ 2. Merge branch two into branch three and then rebase branch three onto branch one
+ I merged branch two into branch three, combining their changes.
+ Then, I rebased branch three on top of branch one, so branch three’s changes align with branch one.
+ Screenshot 2: Shows the merge of two into three.
+ Screenshot 3: Shows the rebase of three onto one.
+ 3. i switch into just-branch and write answer for the question in questions file
+ 4. Create a new branch called dev-feature from main and add one commit
+ I created dev-feature from the main branch to start a new feature.
+  I made one initial commit to this branch.
+  Screenshot 4: Shows the dev-feature branch creation and the initial commit.
+ 5. Resolve merge conflicts when merging feature back into one
+  When I tried to merge feature into one, there were conflicts.
+  I resolved these conflicts by editing the files and then committed the merge.
+  Screenshot 5: Shows the conflict and how I resolved it.
+ 6. Delete branches two and three after merging them with main
+  After completing the merges, I deleted the two and three branches since they were no longer needed.
+  Screenshot 6: Shows the deleted branches.
+ 7. Instructions for Checking My Work
+  To check each task, you can look at the screenshots that match each step.
+  Use git log to verify the commit history and check that the branches were created, merged, rebased, and deleted as explained.
+  The pull request title includes my first name, last name, and group.
  
 
 
