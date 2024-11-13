@@ -36,3 +36,7 @@ Task 8️⃣: Make a pull request, write first name, last name and group in the 
 
 
 
+Screenshot Zhandar1 corresponds to merging two to three and rebasing three to one
+Screenshot Zhandar2 corresponds to deleting two and three after merging them into main
+Screenshot Zhandar3 corresponds to merging dev-feature into one
+Completed all tasks
