@@ -32,7 +32,6 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
- 
-
-
-
+Во первых я создал новую ветку Nurel_name  в ней сделал три коммита,во 
+втором задании я перешел в ветку two  сделал слияние потом першел в ветку three и сделал rebase к ветке one,
+все скрины картинки я сохранил в ветке main и назвал их думаю будет понятно , в третьем задании я нашел коммит с вопросами и ответил на них в текстовом файле answer , в четвертом задании создал ветку def-feature в ней создал три коммита, в 5 задании были проблемы с созданием конфликта между ветками так что у меня получилось лишь замержить и решить конфликты но агай можете защитать мне 5 задание  мне очень нужны баллы пожалуйста ,в шестом задании я замерджил two и three к ветке main и удалил их дальше прикрепил скрины , задание 7 я ответил осталось лишь восьмое.
