@@ -31,6 +31,70 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
+
+Задание 1️⃣: Создать новую ветку Student_name и добавить 3 коммита.
+Создать ветку Student_name:
+bash
+git checkout -b Student_name
+Добавить 3 коммита, изменив файлы или создав новые. Используйте:
+bash
+git add <file>
+git commit -m "Коммит 1"
+git commit -m "Коммит 2"
+git commit -m "Коммит 3"
+
+
+Задание 2️⃣: Объединить ветку two с веткой three и сделать ребейз three на one.
+Перейти на ветку three:
+bash
+git checkout three
+Объединить ветку two:
+bash
+git merge two
+Затем сделать ребейз:
+bash
+git rebase one
+
+Задание 3️⃣: Ответить на вопросы о коммитах.
+Я ответил на все вопросы и закоммитил в другом месте до этого
+
+
+
+Задание 4️⃣: Создать новую ветку dev-feature от ветки main и добавить хотя бы один коммит.
+Перейти на ветку main:
+bash
+git checkout main
+Создать ветку dev-feature:
+bash
+git checkout -b dev-feature
+Добавить коммит:
+bash
+git add <file>
+git commit -m "Коммит в dev-feature"
+
+Задание 5️⃣: Решить конфликты при слиянии feature обратно в one и сделать скриншот решения конфликта.
+Перейти на ветку one:
+bash
+git checkout one
+Объединить ветку feature:
+bash
+git merge feature
+Если возникли конфликты, решить их и сделать скриншот.
+
+
+Задание 6️⃣: Удалить ветки two и three после их слияния с основной веткой.
+Перейти на основную ветку one:
+bash
+git checkout one
+Удалить ветки two и three:
+bash
+git branch -d two
+git branch -d three
+Сделать скриншот результата, используя команду:
+bash
+git branch
+
+
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
  
 
