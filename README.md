@@ -32,6 +32,14 @@ Task 6️⃣: Delete branches “two” and “three” after merging them with 
 Task 7️⃣: Describe what tasks were completed, what screenshots correspond to them in the file readme.md and in general, the instructions for checking your work.
 
 Task 8️⃣: Make a pull request, write first name, last name and group in the request title.
+
+two-merge-three.png - Merge branch two to branch three
+
+three_rebase.png - and rebase three to one
+
+conflict.png - merging feature branch into one and resolving conflict
+
+two_three_main.png - mergin' two and three into main and deleting them after
  
 
 
