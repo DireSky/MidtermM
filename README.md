@@ -36,3 +36,4 @@ Task 8️⃣: Make a pull request, write first name, last name and group in the 
 
 
 
+Tasks 1-5 were completed and the screenshots have the names of the tasks that they belong to
